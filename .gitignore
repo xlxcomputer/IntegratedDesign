@@ -367,4 +367,6 @@ draw_arrow.cpp
 draw_arrow.h
 Main.cpp
 triangle.cpp
-.gitignore
+*.sln
+*.vcxproj
+*.vcxproj.filters
