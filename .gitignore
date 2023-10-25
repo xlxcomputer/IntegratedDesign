@@ -361,3 +361,10 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+combine.cpp
+draw_arrow.cpp
+draw_arrow.h
+Main.cpp
+triangle.cpp
+.gitignore
